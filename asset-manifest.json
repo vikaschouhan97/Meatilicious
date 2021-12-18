@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Meatilicious/static/css/main.b8642a11.chunk.css",
+    "main.js": "/Meatilicious/static/js/main.b18aa57a.chunk.js",
+    "main.js.map": "/Meatilicious/static/js/main.b18aa57a.chunk.js.map",
+    "runtime-main.js": "/Meatilicious/static/js/runtime-main.e67e63a1.js",
+    "runtime-main.js.map": "/Meatilicious/static/js/runtime-main.e67e63a1.js.map",
+    "static/js/2.ce6a14ed.chunk.js": "/Meatilicious/static/js/2.ce6a14ed.chunk.js",
+    "static/js/2.ce6a14ed.chunk.js.map": "/Meatilicious/static/js/2.ce6a14ed.chunk.js.map",
+    "index.html": "/Meatilicious/index.html",
+    "static/css/main.b8642a11.chunk.css.map": "/Meatilicious/static/css/main.b8642a11.chunk.css.map",
+    "static/js/2.ce6a14ed.chunk.js.LICENSE.txt": "/Meatilicious/static/js/2.ce6a14ed.chunk.js.LICENSE.txt",
+    "static/media/meat.10322625.jpg": "/Meatilicious/static/media/meat.10322625.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e67e63a1.js",
+    "static/js/2.ce6a14ed.chunk.js",
+    "static/css/main.b8642a11.chunk.css",
+    "static/js/main.b18aa57a.chunk.js"
+  ]
+}
